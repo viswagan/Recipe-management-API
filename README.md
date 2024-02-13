@@ -32,4 +32,4 @@ Navigate to the app folder containing the pom.xml and execute the following comm
 Swagger-ui url : http://localhost:8080/swagger-ui/index.html
 
 ## Postman collections
-Please refer to ---
+Please refer to Recipes.postman_collection.json
